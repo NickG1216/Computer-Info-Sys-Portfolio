@@ -1,5 +1,6 @@
 # Computer-Info-Sys-Portfolio
 A snapshot of the assignments that I have completed over my undergraduate career
+
 <br>
 <img align="right" src="https://github.com/NickG1216/Files/blob/master/DSC_0005-1.jpg">
 
