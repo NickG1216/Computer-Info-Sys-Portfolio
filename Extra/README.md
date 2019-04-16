@@ -7,5 +7,5 @@ These files are for show only, I just wanted a place to display them.
 
 
 
-
-            ![bowing-gif](https://github.com/NickG1216/Files/blob/master/20180404_210034_1.gif)
+<div style="text-align: center">![bowing-gif](https://github.com/NickG1216/Files/blob/master/20180404_210034_1.gif)
+</div>
