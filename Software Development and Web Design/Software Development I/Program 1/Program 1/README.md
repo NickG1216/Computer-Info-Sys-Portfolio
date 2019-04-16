@@ -1,0 +1,2 @@
+This is an interactive console program that calculates the amount of paint needed to cover a specific room and how many gallons to buy.   
+It demonstrates basic programming skills with the use of a console application.
