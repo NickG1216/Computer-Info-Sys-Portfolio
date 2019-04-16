@@ -5,6 +5,6 @@ the development of an IT platform and architecture consistent with organizationa
 
 It also introduces the fundamentals of object-oriented analysis and design, including experience with a CASE tool. 
 Topics include requirements determination, feasibility analysis, modeling with Unified Modeling Language (UML) and data dictionary 
-construction, data modeling and normalization, user interface requirements specification, and information security procedures. See the iterations folder for the completed project lifecycle of a small online cake shop.
+construction, data modeling and normalization, user interface requirements specification, and information security procedures. See the elaboration spec folder for the completed project lifecycle of a small online cake shop.
 
 
