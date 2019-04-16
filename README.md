@@ -6,5 +6,7 @@ I'm a University of Louisville Computer Information Systems student seeking an e
 
 # Contact
 email: nick.gay@louisville.edu
+
 cell: (502)-994-3915
+
 linkedin: https://www.linkedin.com/in/nick-gay/
