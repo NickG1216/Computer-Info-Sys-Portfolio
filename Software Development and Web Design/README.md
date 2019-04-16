@@ -1,7 +1,7 @@
 This section of my portfolio features the extent of my programming experience to date. 
 It features examples of code and some front-end prototypes that I have designed with ux-pin.
 
-# Softwre Development I
+# Software Development I
 This course introduces object-oriented concepts such as the use of classes, methods, encapsulation, and inheritance.
 The course concentrates on using object-oriented programming to solve simple problems involving input and output
 
