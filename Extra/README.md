@@ -1,9 +1,9 @@
 # Extra
-These are some of the pieces that I have written. I wanted this folder to feture more of my creative side.
+These are some of the pieces that I have written, as I wanted this folder to feature more of my creative side.
 These files are for show only, I just wanted a place to display them. 
 
 
-
+<br>
 
 
 
