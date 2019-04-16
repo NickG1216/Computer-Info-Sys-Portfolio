@@ -1,5 +1,4 @@
-This section is a solid and practical foundation for the design and implementation of database systems. Emphasis is on the relational
-database model, with significant coverage of basic relational database concepts, normalization, E-R modeling, and SQL. 
+This section of my portfolio provides a solid and practical foundation for the design and implementation of database systems. Emphasis is on the relational database model, with significant coverage of basic relational database concepts, normalization, E-R modeling, and SQL. 
 Additional topics include data warehouse, fundamental transaction management concepts, and more recent data storage technologies.
 this demonstrates experince with Microsoft Visio and SQL server. 
 
